@@ -93,7 +93,7 @@ This image shows three respiratory disturbances terminating in different CAP pha
 
 ## What are Respiratory Cycle-related EEG Changes and how do they relate to UARS?
 
-The failure of existing respiratory disturbance criteria has led some researchers to search for new ways to diagnose and classify sleep disordered breathing. Respiratory Cycle-related EEG Changes (RCREC) are subtle EEG changes by measuring EEG power on breath-by-breath basis. Measuring these changes over many cycles would yield mean power of each frequency band (type of wave, like alpha, beta, delta, etc). RCREC was found to correlate with daytime sleepiness stronger than any other metric. Research on RCREC shows that each flow limited breath may include subtle and nearly imperceptible mircroarousals that negatively affect sleep quality. RCREC may be a better tool to quantify UARS in the future.
+The failure of existing respiratory disturbance criteria to accurate diagnose and classify the severity of SDB has led some researchers to search for new metrics. Respiratory Cycle-related EEG Changes (RCREC) are subtle EEG changes found by measuring spectral EEG bandpower on breath-by-breath basis. Measuring these changes over many cycles would yield mean power of each frequency band (type of wave, like alpha, beta, delta, etc). RCREC in the sigma frequency was found to correlate with daytime sleepiness stronger than any other metric in children before and after adenotonsillectomy. Research on RCREC shows that each flow limited breath may include numerous subtle and nearly imperceptible mircroarousals that negatively affect sleep quality. RCREC may be a better tool to quantify UARS in the future.
 
 ## Bibliography
 #### Todo.
